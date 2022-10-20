@@ -1,0 +1,43 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.screenshot {
+  background-color: #E4F9F5;
+  border: 2px solid #40514E;
+}
+
+.issues {
+  background-color: #B6FCF2;
+  border: 2px solid #40514E;
+}
+
+.lofi {
+  background-color: #119999;
+  border: 2px solid #40514E;
+}
+
+.style-guide{
+  background-color: #B6FCF2;
+  border: 2px solid #40514E;
+}
+
+.hi-fi{
+  background-color: #E4F9F5;
+  border: 2px solid #40514E;
+}
+
+.redesign {
+  background-color: #B6FCF2;
+  border: 2px solid #40514E;
+}
